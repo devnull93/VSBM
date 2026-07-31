@@ -1,2 +1,1 @@
-# VSBM
-gpu benchmark
+test your graphics card performance!
